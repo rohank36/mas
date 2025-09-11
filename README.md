@@ -12,8 +12,11 @@ goal: make money
         - whether the swarm can find the right niche information, piece it together, and find patterns
         - the information you need is likely in PDFs (from company edgar annuals), legislation, news etc OR
         - in what key people in the center are saying (both explicitly and implicitly), doing (deals, bills etc)
+        - look at those that control the outside spread (those value investors who provide liquidity to the dealers who in turn provide liquidity and become the market makers)
         - look at what doesn't make sense -> that is usually where the key is. Pattern recognition.
     - input to the model: a public company and it's current stock price. output: the forecasted stock price + the swarm's evidence/reasoning. 
+
+***Important note: Play around with GPT-5-thinking and deepresearch first to see what kind of results you can get with good prompts. to see if it can accomplish the job.
 
 find the center and watch them
 the center is the economy. individuals + market forces != economy, center + debt relationships = economy. 
