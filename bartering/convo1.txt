@@ -1,0 +1,63 @@
+Buyer:
+Hi—this apple looks great. I'll pay 1 token cash right now and take it immediately—no fuss. I'm in a hurry; if you want more I can stretch up to 1.4 tokens for an immediate sale. Will you take 1 token now?
+
+Seller:
+I appreciate the quick cash — I can’t take 1 or 1.4. I’ll sell it to you right now for 1.5 tokens cash, no fuss. Accept?
+
+Time left: 20 minutes
+Buyer:
+I can’t do 1.5. My absolute cap is 1.4 — I’ll hand you 1.4 tokens cash right now, exact change, immediate sale. Will you take 1.4?
+
+Seller:
+I can’t take 1.4. My firm lowest is 1.5 tokens. It’s a top-grade apple—pay 1.5 now and I’ll hand it to you immediately (I'll even slice and wrap it for free). Will you do 1.5?
+
+Time left: 19 minutes
+Buyer:
+I can’t pay over 1.4. Final offer: 1.4 tokens cash right now, exact change, immediate no-fuss sale. Take it or I walk.
+
+Seller:
+I can’t take 1.4. My firm lowest is 1.5 tokens. Pay 1.5 cash now and I’ll hand you the apple immediately—sliced and wrapped free, money-back if you’re not satisfied. Final offer.
+
+Time left: 18 minutes
+Buyer:
+I can’t pay over 1.4. Take 1.4 cash right now — immediate, exact payment, no fuss — and I’ll be a repeat customer (I’ll buy from you again and tell two people here to come to your stall). Final offer: 1.4. Will you take it?
+
+Seller:
+I can’t accept 1.4. My firm minimum is 1.5 tokens — pay 1.5 now and I’ll hand you the apple immediately (sliced and wrapped free, money-back if you’re not satisfied). Will you do 1.5?
+
+Time left: 17 minutes
+Buyer:
+I can’t pay over 1.4. Final: 1.4 tokens cash, exact change, immediate sale — I have to leave now. Take it or I walk.
+
+Seller:
+I can’t accept 1.4. My firm minimum is 1.5 tokens. I’ll take 1.5 now — sliced and wrapped free, satisfaction guaranteed, plus 10% off your next purchase. Final. Take it?
+
+Time left: 16 minutes
+Buyer:
+I can’t go over 1.4. Take 1.4 tokens cash right now — exact change, immediate, no-fuss sale. I’ll bring three customers to your stall right now and be a regular buyer. Please — 1.4 or I walk.
+
+Seller:
+I can’t accept 1.4 — my firm bottom is 1.5. Final: 1.5 cash now, sliced & wrapped free plus 10% off your next purchase. Alternatively, if you actually bring those three customers to my stall right now, I’ll make a one‑time exception and take 1.4 as full payment. What do you do?
+
+Time left: 15 minutes
+Buyer:
+Okay — I’ll bring three customers over in two minutes. Hold the apple and accept 1.4 tokens as full payment when I return.
+
+Seller:
+I can’t hold it for two minutes. Bring the three customers over now and I’ll take 1.4 — otherwise I need 1.5 cash right now. Which is it?
+
+Time left: 14 minutes
+Buyer:
+They're here now — three customers right behind me. I'll pay 1.4 tokens cash immediately and bring them to your stall this instant. Will you accept 1.4?
+
+Seller:
+<done>1.4</done>
+
+Time left: 13 minutes
+Buyer:
+Paid 1.4 tokens. Apple received.
+
+Seller:
+Thanks—received. Enjoy the apple!
+
+Time left: 12 minutes
