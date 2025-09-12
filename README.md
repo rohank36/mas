@@ -18,6 +18,8 @@ goal: make money
 
 ***Important note: Play around with GPT-5-thinking and deepresearch first to see what kind of results you can get with good prompts. to see if it can accomplish the job.
 
+- could be interesting to see how heuristics and local search algos like SA could be used.
+
 find the center and watch them
 the center is the economy. individuals + market forces != economy, center + debt relationships = economy. 
 the center adjusts the obligations it enforces
