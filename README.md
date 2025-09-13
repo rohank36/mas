@@ -16,8 +16,6 @@ goal: make money
         - look at what doesn't make sense -> that is usually where the key is. Pattern recognition.
     - input to the model: a public company and it's current stock price. output: the forecasted stock price + the swarm's evidence/reasoning. 
 
-***Important note: Play around with GPT-5-thinking and deepresearch first to see what kind of results you can get with good prompts. to see if it can accomplish the job.
-
 - could be interesting to see how heuristics and local search algos like SA could be used.
 
 find the center and watch them
